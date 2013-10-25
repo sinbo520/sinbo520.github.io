@@ -2,14 +2,14 @@ title:            Site Title
 description:      Describe your website here.
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+url:              http://blog.zento.me
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Sinbo
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  email:          sinbo520@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -34,7 +34,7 @@ links:
   - title: Theme Setup
     url: /theme-setup
   - title: External Link
-    url: http://mademistakes.com
+    url: http://blog.zento.me
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
