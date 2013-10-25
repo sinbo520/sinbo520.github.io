@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            ZenTo开发收集
+description:      做最简单的开源项目管理系统
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
 url:              http://blog.zento.me
@@ -31,14 +31,26 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Theme Setup
-    url: /theme-setup
-  - title: External Link
-    url: http://blog.zento.me
+  - title: KooTeam
+    url: http://kooteam.com
     external: true
-
+  - title: Teambition
+    url: https://www.teambition.com/
+    external: true
+  - title: Tour
+    url: https://tower.im
+    external: true
+  - title: Tita
+    url: https://tita.com
+    external: true
+  - title: Pragmatic
+    url: https://pragmatic.ly/
+    external: true
+  - title: Pragmatic
+    url: http://workor.com/
+    external: true
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Chongqing
 future:      true
 pygments:    true
 markdown:    kramdown
