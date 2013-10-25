@@ -31,24 +31,20 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Code Source
+    url: https://github.com/sinbo520/zento
   - title: KooTeam
     url: http://kooteam.com
-    external: true
   - title: Teambition
     url: https://www.teambition.com
-    external: true
   - title: Tour
     url: https://tower.im
-    external: true
   - title: Tita
     url: https://tita.com
-    external: true
   - title: Pragmatic
     url: https://pragmatic.ly
-    external: true
   - title: Pragmatic
     url: http://workor.com
-    external: true
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Chongqing
 future:      true
